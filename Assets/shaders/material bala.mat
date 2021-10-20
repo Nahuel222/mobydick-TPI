@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: material bala
+  m_Shader: {fileID: -6465566751694194690, guid: 50f47d0a2d6e71247b8803f265dd8364,
+    type: 3}
+  m_ShaderKeywords: 
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs: []
+    m_Floats:
+    - Vector1_154C3A99: 0.8
+    - Vector1_47D7314D: 15
+    - Vector1_90E71870: 50
+    m_Colors:
+    - Color_5E3FAB7E: {r: 1.323261, g: 0, b: 0, a: 0}
+    - Color_F61CFC08: {r: 0.9598267, g: 1, b: 0, a: 0}

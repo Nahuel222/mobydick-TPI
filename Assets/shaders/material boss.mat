@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: material boss
+  m_Shader: {fileID: -6465566751694194690, guid: 9ea76c2579817224b9842172dbbdc893,
+    type: 3}
+  m_ShaderKeywords: 
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs: []
+    m_Floats:
+    - Vector1_23C579EE: 1.5
+    - Vector1_7E3F6186: 50
+    - Vector1_7FD10D7B: 4.5
+    m_Colors:
+    - Color_6B3EDF4B: {r: 0, g: 0, b: 0, a: 0}
+    - Color_F021C441: {r: 7.174612, g: 0, b: 10.96281, a: 0}
